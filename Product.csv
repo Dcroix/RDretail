@@ -1,0 +1,51 @@
+productID,type,description,supplierID,price
+1,Laptop,High-performance laptop with SSD,101,899.99
+2,Smartphone,5.5-inch smartphone with dual camera,102,499.99
+3,Tablet,10-inch tablet with Retina display,103,349.99
+4,Printer,Wireless all-in-one printer,104,129.99
+5,Monitor,24-inch LED monitor,105,199.99
+6,Keyboard,Mechanical gaming keyboard,106,79.99
+7,Mouse,Wireless optical mouse,107,19.99
+8,Headphones,Over-ear noise-canceling headphones,108,149.99
+9,External Hard Drive,2TB USB 3.0 external hard drive,109,89.99
+10,Camera,20MP digital camera with zoom lens,110,299.99
+11,Speaker,Bluetooth portable speaker,111,59.99
+12,Router,Dual-band Wi-Fi router,112,79.99
+13,Scanner,Flatbed color scanner,113,129.99
+14,Microphone,USB studio microphone,114,49.99
+15,SSD,512GB SATA SSD,115,129.99
+16,Graphics Card,4GB GDDR5 graphics card,116,229.99
+17,Software,Office 365 subscription,117,69.99
+18,Backpack,Laptop backpack with multiple compartments,118,39.99
+19,Smartwatch,Fitness and activity tracker smartwatch,119,149.99
+20,Keyboard,Wireless ergonomic keyboard,120,69.99
+21,Mouse,Optical gaming mouse with customizable LEDs,121,49.99
+22,Tablet,8-inch Android tablet,122,149.99
+23,Printer,Compact color laser printer,123,199.99
+24,Headphones,In-ear headphones with noise isolation,124,29.99
+25,Webcam,HD webcam with built-in microphone,125,49.99
+26,External Hard Drive,4TB external hard drive with backup software,126,149.99
+27,Speaker,2.1 channel multimedia speaker system,127,59.99
+28,Router,Tri-band Wi-Fi router with MU-MIMO,128,179.99
+29,Monitor,27-inch 4K Ultra HD monitor,129,299.99
+30,Keyboard,Mechanical backlit keyboard,130,99.99
+31,Mouse,Wireless ergonomic mouse,131,39.99
+32,Camera,DSLR camera with full-frame sensor,132,799.99
+33,Smartphone,High-end smartphone with 6GB RAM,133,699.99
+34,Software,Antivirus software subscription,134,29.99
+35,Scanner,Sheetfed document scanner,135,155.55
+36,Microphone,Studio condenser microphone,136,85.55
+37,SSD,1TB NVMe SSD,137,245.55
+38,Graphics Card,8GB GDDR6 graphics card,138,345.55
+39,Tablet,12-inch Windows tablet with stylus,139,545.55
+40,Printer,Wireless color inkjet printer,140,75.55
+41,Speaker,Bluetooth bookshelf speakers,141,125.55
+42,Router,Gigabit Ethernet router,142,55.55
+43,Monitor,32-inch curved gaming monitor,143,355.55
+44,Keyboard,Mechanical gaming keyboard with RGB,144,105.55
+45,Mouse,High-precision gaming mouse,145,65.55
+46,Webcam,4K Ultra HD webcam with facial recognition,146,55.55
+47,Smartwatch,Waterproof fitness smartwatch,147,125.55
+48,Headphones,Wireless noise-canceling headphones,148,155.55
+49,External Hard Drive,6TB external hard drive with cloud backup,149,245.55
+50,Laptop,Ultra-thin laptop with SSD and long battery life,150,1155.55
