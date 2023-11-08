@@ -10,4 +10,8 @@ each order is delivered by one rider.
 
 # Your Task
 1. Create an Entity Relationship Diagram presenting multiciplity using the UML notation
-2. Design the Database Schema presenting the relationship of entities and multiplicity using the UML notation. 
+2. Design the Database Schema presenting the relationship of entities and multiplicity using the UML notation.
+
+# Options
+In designign your ER Diagram and DB Schema, you may want to use Draw.io using this link [https://app.diagrams.net/] or
+you can also design via Powerpoint.
