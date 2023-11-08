@@ -1,0 +1,46 @@
+supplierID,name,address,email,yearsWithCompany
+101,ABC Electronics,123 Main St,abc@example.com,5
+102,XYZ Tech,456 Elm Rd,xyz@example.com,3
+103,Global Supplies,789 Oak Ave,global@example.com,7
+104,Quality Parts,321 Pine Ln,quality@example.com,2
+105,Advanced Technologies,555 Cedar Dr,advanced@example.com,4
+106,Gadget World,777 Redwood Pkwy,gadget@example.com,6
+107,Innovative Solutions,888 Maple St,innovative@example.com,1
+108,ElectroSource,999 Birch Rd,electro@example.com,9
+109,TotalTech,111 Cherry Ave,total@example.com,8
+110,Accessories Inc.,222 Walnut Ln,accessories@example.com,3
+111,TechPro,333 Sycamore Rd,techpro@example.com,5
+112,Supreme Electronics,444 Juniper Dr,supreme@example.com,2
+113,Ultimate Suppliers,555 Aspen Ave,ultimate@example.com,7
+114,Precision Parts,666 Willow St,precision@example.com,4
+115,Star Components,777 Hemlock Rd,star@example.com,6
+116,Global Gadgets,888 Spruce Ave,globalgadgets@example.com,2
+117,TechConnect,999 Redbud Dr,techconnect@example.com,4
+118,Universe Electronics,123 Poplar Rd,universe@example.com,3
+119,TechWizards,321 Cedar St,techwizards@example.com,6
+120,Quality Electronics,456 Birch Ave,qualityelectronics@example.com,5
+121,SmartTech,789 Willow Rd,smarttech@example.com,8
+122,InnoSupplies,123 Cedar Dr,innosupplies@example.com,1
+123,GadgetsPlus,111 Oak St,gadgetsplus@example.com,4
+124,StarTech,222 Elm Ln,startech@example.com,7
+125,Global Gadgets,555 Redwood Ave,globalgadgets@example.com,3
+126,Quality Suppliers,888 Oak Ln,qualitysuppliers@example.com,9
+127,Total Electronics,123 Pine Rd,totalelectronics@example.com,5
+128,Superior Parts,321 Cherry Ave,superiorparts@example.com,2
+129,Precision Electronics,111 Walnut Rd,precisionelectronics@example.com,7
+130,Accessories World,222 Sycamore Pkwy,accessoriesworld@example.com,6
+131,Advanced Suppliers,333 Willow St,advancedsuppliers@example.com,1
+132,Ultimate Gadgets,444 Cedar Rd,ultimategadgets@example.com,3
+133,Tech Innovations,555 Poplar Ln,techinnovations@example.com,4
+134,ElectroSource Plus,666 Juniper Ave,electrosourceplus@example.com,2
+135,TechConnect Pro,777 Willow Dr,techconnectpro@example.com,5
+136,Gadgets Unlimited,888 Elm St,gadgetsunlimited@example.com,8
+137,Global Innovations,999 Oak Rd,globalinnovations@example.com,7
+138,Quality Electronics,123 Redwood St,qualityelectronics@example.com,6
+139,Supreme Tech,321 Cedar Ave,supremetech@example.com,9
+140,Advanced Parts,456 Birch Dr,advancedparts@example.com,4
+141,TechXpress,555 Sycamore Ave,techxpress@example.com,3
+142,Tech Solutions,666 Hemlock Rd,techsolutions@example.com,2
+143,Quality Supplies,789 Spruce Ln,qualitysupplies@example.com,1
+144,Gadget Plus,111 Pine Ave,gadgetplus@example.com,5
+145,Global Gadgets,222 Willow Dr,globalgadgets@example.com,6
