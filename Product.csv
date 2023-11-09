@@ -1,4 +1,4 @@
-productID,type,description,supplierID,price
+ProductID,Type,Description,SupplierID,Price
 1,Laptop,High-performance laptop with SSD,101,899.99
 2,Smartphone,5.5-inch smartphone with dual camera,102,499.99
 3,Tablet,10-inch tablet with Retina display,103,349.99
